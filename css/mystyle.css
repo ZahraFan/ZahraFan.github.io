@@ -1,0 +1,23 @@
+#myphoto{
+	border-radius: 1.0rem !important;
+	width: 30%;
+	padding: 0.25rem;
+  	background-color: #fff;
+	border: 0.125rem solid #dee2e6;
+	border-radius: 0.5rem;
+	max-width: 100%;
+}
+
+#htop {
+	margin-top: 1.5rem;
+	margin-bottom: 0.5rem;
+}
+
+#mypara{
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+.mygrad {
+  background-image: linear-gradient(to top, #33bb9c, #46cad6, #8fd3f7, #cfddff, #f7ebff);
+}
